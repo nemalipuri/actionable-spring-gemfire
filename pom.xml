@@ -92,10 +92,10 @@
 		<maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
 		<multithreadedtc.version>1.01</multithreadedtc.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring-data-geode.version>1.0.0.APACHE-GEODE-INCUBATING-M2</spring-data-geode.version>
 <!--
-		<spring-data-geode.version>1.0.0.APACHE-GEODE-INCUBATING-SNAPSHOT</spring-data-geode.version>
+		<spring-data-geode.version>1.0.0.APACHE-GEODE-INCUBATING-M2</spring-data-geode.version>
 -->
+		<spring-data-geode.version>1.0.0.APACHE-GEODE-INCUBATING-SNAPSHOT</spring-data-geode.version>
 		<spring-shell.version>1.0.0.RELEASE</spring-shell.version>
 	</properties>
 
